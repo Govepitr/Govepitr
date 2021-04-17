@@ -9,9 +9,9 @@
 
 
 
-![Github Stats](https://github-readme-stats.govepitr.vercel.app/api?username=Govepitr&show_icons=true&hide_border=true&bg_color=23,6dedfa,131240&title_color=000000&text_color=ffffff&icon_color=ffffff)
+![Github Stats](https://github-readme-stats.govepitr.vercel.app/api?username=Govepitr&show_icons=true&bg_color=23,6dedfa,131240&title_color=000000&text_color=ffffff&icon_color=ffffff)
 
-![](https://github-readme-stats.govepitr.vercel.app/api/top-langs?username=Govepitr&hide=shell&hide_border=true&langs_count=6&layout=compact&bg_color=23,6dedfa,131240&title_color=000000&text_color=ffffff&icon_color=ffffff)
+![](https://github-readme-stats.govepitr.vercel.app/api/top-langs?username=Govepitr&langs_count=6&layout=compact&bg_color=23,6dedfa,131240&title_color=000000&text_color=ffffff&icon_color=ffffff)
 
 
 
