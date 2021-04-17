@@ -1,12 +1,19 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... <br/>
+<p>
+<img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="right">
+</p>
 
-<!-- [![Govepitr's GitHub stats](github-readme-stats-govepitr.vercel.app/api?username=Govepitr)](https://github.com/Govepitr/github-readme-stats) -->
+
+🔭 I’m currently working on ... <br/>
+
+
+
 <details>
   <summary> 🧙‍♂️ Github Stats <summary/>
 
-  <img align="left" alt="Govepitr's Github Stats" src="github-readme-stats.govepitr.vercel.app/api?username=Govepitr&show_icons=true&hide_border=true"/>
+  <img align="center" alt="Govepitr's Github Stats" src="https://github-readme-stats.govepitr.vercel.app/api?username=Govepitr&show_icons=true&hide_border=true"/>
+  <img align="center" alt="Govepitr's Used Languages" src="https://github-readme-stats.govepitr.vercel.app/api/top-langs?username=Govepitr&hide=shell&langs_count=6&layout=compact">
 
 </details>
 
