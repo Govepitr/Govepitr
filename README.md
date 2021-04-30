@@ -1,9 +1,20 @@
-<h1 align="center"> Hi 👋, I'm Dan</h1>
 
 <p>
-  <h2 align="right">What's the weather like here?</h2>
-  <img align="right" src="https://weather-icon.journeyad.repl.co/@mesa?v=1" />
+  
 </p>
+<p>
+  <a href="https://komarev.com/ghpvc/?username=Govepitr" ><img src=""> </a>
+  <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="right" />
+</p>
+
+
+
+
+
+<h1 align="center"> Hi 👋, I'm Dan</h1>
+<h2 align="center">An enthusiastic fullstack developer</h2>
+
+
   
 
 🔭 I’m currently working on ... 
@@ -65,8 +76,4 @@
 
   ## Contact Me
   :shipit: Send me an 📜 [email](mailto:dan@arbelo.me) 
-    
-    
-
-    
-  
+![](https://hit.yhype.me/github/profile?user_id=75289900)
