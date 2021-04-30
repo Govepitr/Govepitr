@@ -1,11 +1,11 @@
 
 
-<p>
+<div >
 
-![Welcome!](../Assets/images/Victory_1.svg)
+  <img src="https://raw.githubusercontent.com/Govepitr/Govepitr/51cbba56c04d9a8288b584e03bccf3997fb3b705/Assets/images/Victory.png">
   <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="right" />
 
-</p>
+</div>
 
 
 
