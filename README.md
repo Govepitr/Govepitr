@@ -2,7 +2,7 @@
 
 <p>
 
-  ![Welcome!]("https://github.com/Govepitr/Govepitr/blob/develop/Assets/images/Victory_1.svg")
+![Welcome!](../Assets/images/Victory_1.svg)
   <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="right" />
 
 </p>
