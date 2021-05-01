@@ -1,7 +1,7 @@
 
 
 
-  <img src="./Assets/images/D.Va.png" target="_blank" href="https://govepitr.github.io"/>
+  <a href="https://govepitr.github.io" target="_blank"><img src="./Assets/images/D.Va.png"></a>
   <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="right" />
 
 
