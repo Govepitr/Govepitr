@@ -1,7 +1,7 @@
 
 
 
-  [![Portfolio Banner for Govepitr](./Assets/images/D.Va.png) target="_blank"](https://govepitr.github.io/)
+  <img src="./Assets/images/D.Va.png" target="_blank" href="https://govepitr.github.io"/>
   <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="right" />
 
 
