@@ -9,15 +9,20 @@
 
 
 
-
-<h1 align="center"> Hi 👋, I'm Dan</h1>
-  <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="center" />
-<h2 align="center">An enthusiastic fullstack developer</h2>
-
+<div align="center">
+  <h1> Hi 👋, I'm Dan</h1>
+    <h2>
+      <p>An enthusiastic fullstack developer</p>
+      <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="center"/>
+      <img src="./Assets/images/Pillar.gif" align="center">
+    </h2>
+</div>
 
   
 
 🔭 I’m currently working on ... 
+
+  Me!
 
 
   <p align="center">
