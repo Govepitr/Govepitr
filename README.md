@@ -2,7 +2,7 @@
 
 <div >
 
-  <img src="Assets/images/Victory.png">
+  <img style src="Assets/images/D.Va.png" alt="banner" style="max-width:100%;">
   <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="right" />
 
 </div>
