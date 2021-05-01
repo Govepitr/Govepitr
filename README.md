@@ -1,8 +1,8 @@
 
 
 
-  <a href="https://govepitr.github.io" target="_blank"><img src="./Assets/images/D.Va.png"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="right" />
+<a href="https://govepitr.github.io" target="_blank"><img src="./Assets/images/D.Va.png">
+</a>
 
 
 
@@ -11,6 +11,7 @@
 
 
 <h1 align="center"> Hi 👋, I'm Dan</h1>
+  <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="center" />
 <h2 align="center">An enthusiastic fullstack developer</h2>
 
 
