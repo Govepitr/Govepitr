@@ -63,5 +63,5 @@
 
 
   ## Contact Me
-  :shipit: Send me an 📜/play secret [email](mailto:dan@arbelo.me) 
+  :shipit: Send me an 📜 [email](mailto:dan@arbelo.me) 
 ![](https://hit.yhype.me/github/profile?user_id=75289900)
