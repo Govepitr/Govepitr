@@ -12,19 +12,17 @@
 
 <div align="center">
   <h1> Hi 👋, I'm Dan</h1>
-    <h2>
-      <p>An enthusiastic fullstack developer</p>
-      <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1" align="center"/>
-      <img src="./Assets/images/Pillar.gif" align="center">
-    </h2>
+    <h2>An enthusiastic fullstack developer</h2>
+      <img src="./Assets/images/WSDisplay.png" height="90">
+      <img src="https://weather-icon.journeyad.repl.co/@mesa?v=1"/>
+      <img src="./Assets/images/Pillar.gif">    
 </div>
 
   
-
-🔭 I’m currently working on ... 
-
-  Me!
-
+<div>
+<font size="3">I love to bring my creativity to life in ways that 8 year old me would love to see, but 54 yr old me would still be excited to do business with.<font/>
+<div/>
+<br/>
 
 ## Followers
 <br/>
