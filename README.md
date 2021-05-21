@@ -24,14 +24,14 @@
 <div/>
 <br/>
 
-## Followers
+## Those who have helped me grow
 <br/>
 
 
 
-✨[@KashCodes](https://github.com/KashCodes)✨ | 🧙[@davidwu92](https://github.com/davidwu92)🧙 | 🦸‍♀️[@vloebel](https://github.com/vloebel)🦸‍♀️ |  :shipit:[@gwarzecha](https://github.com/gwarzecha):shipit:
+✨[@KashCodes](https://github.com/KashCodes)✨ | 🧙[@davidwu92](https://github.com/davidwu92)🧙 |👾[@philliploy](https://github.com/philliploy)👾 |  👽[@anthonyrivas](https://github.com/anthonyrivas)👽
 --- | --- | --- | ---
-🎆![💖@Kashcodes💖](https://avatars.githubusercontent.com/KashCodes?s=150&v=1)🎆 | ![@davidwu92](https://avatars.githubusercontent.com/davidwu92?s=150&v=1) | ![@vloebel](https://avatars.githubusercontent.com/vloebel?s=150&v=1) | ![@gwarzecha](https://avatars.githubusercontent.com/gwarzecha?s=150&v=1)
+🎆![💖@Kashcodes💖](https://avatars.githubusercontent.com/KashCodes?s=150&v=1)🎆 | ![@davidwu92](https://avatars.githubusercontent.com/davidwu92?s=150&v=1) | ![@philliploy](https://avatars.githubusercontent.com/u/40612029?s=150&v=4) | ![@anthonyrivas](https://avatars.githubusercontent.com/u/34780493?s=150&v=4)
 
   
   
